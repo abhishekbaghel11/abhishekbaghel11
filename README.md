@@ -47,7 +47,7 @@ I am Abhishek Baghel. I am currently a Student <img src="https://media.giphy.com
 
 ### :sunglasses: My Stats :
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbaghel11&layout=compact" width=500/>
-  <img align="center" src="https://streak-stats.demolab.com?user=abhishekbaghel11&theme=vue&border_radius=15&card_width=300&hide_current_streak=true&hide_longest_streak=true" height=250 width=500 /)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekbaghel11&layout=compact"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=abhishekbaghel11&theme=vue&border_radius=15&card_width=300&hide_current_streak=true&hide_longest_streak=true" height=150 /)
 </div>
 
